@@ -1,0 +1,2 @@
+Drop this theme's full-screen background art here as scene.png
+(portrait, at least 1242x2688; see assets/themes/README.md).
