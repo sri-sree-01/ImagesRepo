@@ -1,0 +1,58 @@
+name: Generate content manifest
+
+# Regenerates AIDMWallpaper/manifest.json whenever content changes, so files
+# you add to the repo show up in the app automatically. The app reads only
+# this manifest (to avoid GitHub API rate limits), so without it a newly
+# added image/audio file is invisible to the app.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'AIDMWallpaper/**'
+  # Lets you run it manually from the Actions tab (use this once now to index
+  # files already committed).
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: manifest-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  manifest:
+    runs-on: ubuntu-latest
+    # Skip the run triggered by this workflow's own manifest commit, so it
+    # never loops. (GitHub also auto-skips commits tagged "[skip ci]"; this
+    # is belt-and-suspenders.)
+    if: ${{ github.event_name == 'workflow_dispatch' || !contains(github.event.head_commit.message, '[skip ci]') }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Regenerate AIDMWallpaper/manifest.json
+        run: node scripts/generate-manifest.js
+
+      - name: Commit manifest if it changed
+        id: commit
+        run: |
+          if git diff --quiet -- AIDMWallpaper/manifest.json; then
+            echo "Manifest unchanged; nothing to commit."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add AIDMWallpaper/manifest.json
+          git commit -m "chore: regenerate content manifest [skip ci]"
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      # Force the CDN the app reads from to drop its cached manifest, so the
+      # change is visible within minutes instead of up to ~12 hours.
+      - name: Purge jsDelivr cache for the manifest
+        if: ${{ steps.commit.outputs.changed == 'true' }}
+        run: |
+          curl -s "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/AIDMWallpaper/manifest.json" || true
