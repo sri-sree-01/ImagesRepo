@@ -1,0 +1,53 @@
+name: Daily card manifest
+
+# Regenerates ttd_info/daily_card/manifest.json whenever images are added or
+# removed there, so a new plate joins the TTD Info "Today's Srivari Card"
+# rotation just by pushing the image. See scripts/generate-daily-card-manifest.js.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'ttd_info/daily_card/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-card-manifest-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  manifest:
+    runs-on: ubuntu-latest
+    # Skip the run triggered by this workflow's own manifest commit.
+    if: ${{ github.event_name == 'workflow_dispatch' || !contains(github.event.head_commit.message, '[skip ci]') }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Regenerate ttd_info/daily_card/manifest.json
+        run: node scripts/generate-daily-card-manifest.js
+
+      - name: Commit manifest if it changed
+        id: commit
+        run: |
+          if git diff --quiet -- ttd_info/daily_card/manifest.json; then
+            echo "Manifest unchanged; nothing to commit."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ttd_info/daily_card/manifest.json
+          git commit -m "chore: regenerate daily card manifest [skip ci]"
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      # Make the CDN the app reads from drop its cached manifest, so new
+      # plates show up within minutes instead of up to ~12 hours.
+      - name: Purge jsDelivr cache for the manifest
+        if: ${{ steps.commit.outputs.changed == 'true' }}
+        run: |
+          curl -s "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/ttd_info/daily_card/manifest.json" || true
