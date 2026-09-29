@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "updated": "2026-09-29",
+  "arts": [
+    {
+      "file": "venkateswara_06.jpg",
+      "layout": "square",
+      "label": "Srivari Divya Roopam"
+    },
+    {
+      "file": "suprabhatham_iyambhagavan.jpg",
+      "layout": "full",
+      "label": "Suprabhatam Gopuram"
+    },
+    {
+      "file": "venkateswara_12.jpg",
+      "layout": "square",
+      "label": "Swamy at Ananda Nilayam"
+    },
+    {
+      "file": "govinda_namalu.jpg",
+      "layout": "full",
+      "label": "Srivari Namam"
+    },
+    {
+      "file": "venkateswara_13.jpg",
+      "layout": "square",
+      "label": "Golden Srivari"
+    },
+    {
+      "file": "tirumala_ghantanaadam.jpg",
+      "layout": "full",
+      "label": "Ghantanaadam"
+    },
+    {
+      "file": "venkateswara_17.jpg",
+      "layout": "square",
+      "label": "Srivari with Garuda"
+    },
+    {
+      "file": "suprabhatham.jpg",
+      "layout": "full",
+      "label": "Shankha Chakra Namam"
+    },
+    {
+      "file": "venkateswara_18.jpg",
+      "layout": "square",
+      "label": "Srivari Utsavam"
+    },
+    {
+      "file": "vishnu_sahasranamam.jpg",
+      "layout": "full",
+      "label": "Sri Maha Vishnu"
+    },
+    {
+      "file": "venkateswara_20.jpg",
+      "layout": "square",
+      "label": "Cosmic Venkateswara"
+    },
+    {
+      "file": "venkateswara_10.jpg",
+      "layout": "square",
+      "label": "Srivari Kolu"
+    },
+    {
+      "file": "venkateswara_16.jpg",
+      "layout": "square",
+      "label": "Srinivasa Kalyanam"
+    }
+  ]
+}
