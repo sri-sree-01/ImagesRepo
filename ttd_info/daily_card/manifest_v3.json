@@ -1,0 +1,1757 @@
+{
+  "version": 3,
+  "updated": "2026-09-30",
+  "weekdays": {
+    "mon": [
+      "shiva"
+    ],
+    "wed": [
+      "ganesha",
+      "krishna"
+    ],
+    "thu": [
+      "vishnu",
+      "ayudha"
+    ],
+    "fri": [
+      "lakshmi"
+    ],
+    "sat": [
+      "srivari"
+    ]
+  },
+  "arts": [
+    {
+      "file": "venkateswara_06.jpg",
+      "layout": "square",
+      "label": "Srivari Divya Roopam",
+      "theme": "srivari"
+    },
+    {
+      "file": "venkateswara_12.jpg",
+      "layout": "square",
+      "label": "Swamy at Ananda Nilayam",
+      "theme": "srivari"
+    },
+    {
+      "file": "suprabhatham_iyambhagavan.jpg",
+      "layout": "full",
+      "label": "Suprabhatam Gopuram",
+      "theme": "srivari"
+    },
+    {
+      "file": "venkateswara_13.jpg",
+      "layout": "square",
+      "label": "Golden Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "venkateswara_17.jpg",
+      "layout": "square",
+      "label": "Srivari with Garuda",
+      "theme": "srivari"
+    },
+    {
+      "file": "govinda_namalu.jpg",
+      "layout": "full",
+      "label": "Srivari Namam",
+      "theme": "srivari"
+    },
+    {
+      "file": "venkateswara_18.jpg",
+      "layout": "square",
+      "label": "Srivari Utsavam",
+      "theme": "srivari"
+    },
+    {
+      "file": "venkateswara_20.jpg",
+      "layout": "square",
+      "label": "Cosmic Venkateswara",
+      "theme": "srivari"
+    },
+    {
+      "file": "tirumala_ghantanaadam.jpg",
+      "layout": "full",
+      "label": "Ghantanaadam",
+      "theme": "srivari"
+    },
+    {
+      "file": "venkateswara_10.jpg",
+      "layout": "square",
+      "label": "Srivari Kolu",
+      "theme": "srivari"
+    },
+    {
+      "file": "venkateswara_16.jpg",
+      "layout": "square",
+      "label": "Srinivasa Kalyanam",
+      "theme": "srivari"
+    },
+    {
+      "file": "suprabhatham.jpg",
+      "layout": "full",
+      "label": "Shankha Chakra Namam",
+      "theme": "srivari"
+    },
+    {
+      "file": "venkateswara_01.jpg",
+      "layout": "square",
+      "label": "Srivari with Children",
+      "theme": "srivari"
+    },
+    {
+      "file": "venkateswara_02.jpg",
+      "layout": "square",
+      "label": "Srinivasa & Kubera",
+      "theme": "srivari"
+    },
+    {
+      "file": "vishnu_sahasranamam.jpg",
+      "layout": "full",
+      "label": "Sri Maha Vishnu",
+      "theme": "srivari"
+    },
+    {
+      "file": "venkateswara_03.jpg",
+      "layout": "square",
+      "label": "Garuda Seva",
+      "theme": "srivari"
+    },
+    {
+      "file": "venkateswara_05.jpg",
+      "layout": "square",
+      "label": "Vakulamata Seva",
+      "theme": "srivari"
+    },
+    {
+      "file": "venkateswara_07.jpg",
+      "layout": "square",
+      "label": "Annamayya Keerthana",
+      "theme": "srivari"
+    },
+    {
+      "file": "venkateswara_08.jpg",
+      "layout": "square",
+      "label": "Srinivasa on the Hills",
+      "theme": "srivari"
+    },
+    {
+      "file": "venkateswara_09.jpg",
+      "layout": "square",
+      "label": "Narayana & Narada",
+      "theme": "srivari"
+    },
+    {
+      "file": "venkateswara_11.jpg",
+      "layout": "square",
+      "label": "Bala Venkateswara",
+      "theme": "srivari"
+    },
+    {
+      "file": "venkateswara_14.jpg",
+      "layout": "square",
+      "label": "Lakshmi Narayana",
+      "theme": "srivari"
+    },
+    {
+      "file": "venkateswara_15.jpg",
+      "layout": "square",
+      "label": "Swayambhu in the Anthill",
+      "theme": "srivari"
+    },
+    {
+      "file": "venkateswara_19.jpg",
+      "layout": "square",
+      "label": "Hathiram Bavaji",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/51.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/52.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/53.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/54.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/55.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/56.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/57.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/58.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/59.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/60.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/61.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/62.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/63.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/64.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/65.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/66.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/67.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/68.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/69.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/70.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/71.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/72.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/73.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/74.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/75.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/76.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/77.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/78.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/79.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/80.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/81.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/82.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/83.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/84.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/85.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/86.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/88.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/89.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/90.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/91.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/92.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/93.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/94.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/95.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/96.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/97.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/98.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/99.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/100.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/101.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/102.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/103.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/104.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/105.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/106.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/107.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/108.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/109.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/111.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/112.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/113.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/114.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/115.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/116.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/117.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/118.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/119.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/120.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/121.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/122.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/123.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/124.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/125.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/126.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/127.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/128.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/129.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/130.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/131.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/132.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/133.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/134.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/135.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/136.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/137.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/138.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/139.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/140.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/141.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/142.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/143.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/144.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/145.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/146.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/147.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/148.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/149.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/150.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/151.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/152.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/153.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/154.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/155.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/156.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/157.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/158.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/159.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/160.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/161.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/162.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/163.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/164.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/165.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/166.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/167.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/168.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/169.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/170.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/171.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/172.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/173.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/174.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/175.jpg",
+      "layout": "square",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/176.jpg",
+      "layout": "square",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/balaji1.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/balaji2.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "srivari/balaji3.jpg",
+      "layout": "full",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "divine/krishna_a_1.jpg",
+      "layout": "square",
+      "label": "Sri Krishna",
+      "theme": "krishna"
+    },
+    {
+      "file": "divine/vishnu_a_2.jpg",
+      "layout": "square",
+      "label": "Sri Maha Vishnu",
+      "theme": "vishnu"
+    },
+    {
+      "file": "divine/ayudha_a_27.jpg",
+      "layout": "square",
+      "label": "Divya Ayudham",
+      "theme": "ayudha"
+    },
+    {
+      "file": "divine/ayudha_a_28.jpg",
+      "layout": "square",
+      "label": "Divya Ayudham",
+      "theme": "ayudha"
+    },
+    {
+      "file": "divine/ayudha_b_6.jpg",
+      "layout": "square",
+      "label": "Divya Ayudham",
+      "theme": "ayudha"
+    },
+    {
+      "file": "divine/ayudha_b_7.jpg",
+      "layout": "square",
+      "label": "Divya Ayudham",
+      "theme": "ayudha"
+    },
+    {
+      "file": "divine/ayudha_b_8.jpg",
+      "layout": "square",
+      "label": "Divya Ayudham",
+      "theme": "ayudha"
+    },
+    {
+      "file": "divine/ayudha_c_17.jpg",
+      "layout": "square",
+      "label": "Divya Ayudham",
+      "theme": "ayudha"
+    },
+    {
+      "file": "divine/ayudha_c_18.jpg",
+      "layout": "square",
+      "label": "Divya Ayudham",
+      "theme": "ayudha"
+    },
+    {
+      "file": "divine/ayudha_c_19.jpg",
+      "layout": "square",
+      "label": "Divya Ayudham",
+      "theme": "ayudha"
+    },
+    {
+      "file": "divine/ayudha_c_20.jpg",
+      "layout": "square",
+      "label": "Divya Ayudham",
+      "theme": "ayudha"
+    },
+    {
+      "file": "divine/krishna_c_3.jpg",
+      "layout": "square",
+      "label": "Sri Krishna",
+      "theme": "krishna"
+    },
+    {
+      "file": "divine/ganesha_c_30.jpg",
+      "layout": "square",
+      "label": "Vighneswara",
+      "theme": "ganesha"
+    },
+    {
+      "file": "divine/ganesha_c_31.jpg",
+      "layout": "square",
+      "label": "Vighneswara",
+      "theme": "ganesha"
+    },
+    {
+      "file": "divine/krishna_c_4.jpg",
+      "layout": "square",
+      "label": "Sri Krishna",
+      "theme": "krishna"
+    },
+    {
+      "file": "divine/ayudha_c_5.jpg",
+      "layout": "square",
+      "label": "Divya Ayudham",
+      "theme": "ayudha"
+    },
+    {
+      "file": "divine/shiva_c_6.jpg",
+      "layout": "square",
+      "label": "Maha Shiva",
+      "theme": "shiva"
+    },
+    {
+      "file": "divine/ayudha_c_7.jpg",
+      "layout": "square",
+      "label": "Divya Ayudham",
+      "theme": "ayudha"
+    },
+    {
+      "file": "divine/krishna_d_10.jpg",
+      "layout": "square",
+      "label": "Sri Krishna",
+      "theme": "krishna"
+    },
+    {
+      "file": "divine/vishnu_d_13.jpg",
+      "layout": "square",
+      "label": "Sri Maha Vishnu",
+      "theme": "vishnu"
+    },
+    {
+      "file": "divine/krishna_d_9.jpg",
+      "layout": "square",
+      "label": "Sri Krishna",
+      "theme": "krishna"
+    },
+    {
+      "file": "divine/ayudha_e_10.jpg",
+      "layout": "square",
+      "label": "Divya Ayudham",
+      "theme": "ayudha"
+    },
+    {
+      "file": "divine/ganesha_e_12.jpg",
+      "layout": "square",
+      "label": "Vighneswara",
+      "theme": "ganesha"
+    },
+    {
+      "file": "divine/ganesha_e_17.jpg",
+      "layout": "square",
+      "label": "Vighneswara",
+      "theme": "ganesha"
+    },
+    {
+      "file": "divine/ganesha_e_18.jpg",
+      "layout": "square",
+      "label": "Vighneswara",
+      "theme": "ganesha"
+    },
+    {
+      "file": "divine/ganesha_e_5.jpg",
+      "layout": "square",
+      "label": "Vighneswara",
+      "theme": "ganesha"
+    },
+    {
+      "file": "divine/krishna_e_6.jpg",
+      "layout": "square",
+      "label": "Sri Krishna",
+      "theme": "krishna"
+    },
+    {
+      "file": "divine/ayudha_e_7.jpg",
+      "layout": "square",
+      "label": "Divya Ayudham",
+      "theme": "ayudha"
+    },
+    {
+      "file": "divine/ayudha_e_8.jpg",
+      "layout": "square",
+      "label": "Divya Ayudham",
+      "theme": "ayudha"
+    },
+    {
+      "file": "divine/ayudha_f_14.jpg",
+      "layout": "square",
+      "label": "Divya Ayudham",
+      "theme": "ayudha"
+    },
+    {
+      "file": "divine/ganesha_f_15.jpg",
+      "layout": "square",
+      "label": "Vighneswara",
+      "theme": "ganesha"
+    },
+    {
+      "file": "divine/ganesha_f_16.jpg",
+      "layout": "square",
+      "label": "Vighneswara",
+      "theme": "ganesha"
+    },
+    {
+      "file": "divine/ganesha_f_17.jpg",
+      "layout": "square",
+      "label": "Vighneswara",
+      "theme": "ganesha"
+    },
+    {
+      "file": "divine/ganesha_f_18.jpg",
+      "layout": "square",
+      "label": "Vighneswara",
+      "theme": "ganesha"
+    },
+    {
+      "file": "divine/ganesha_f_22.jpg",
+      "layout": "square",
+      "label": "Vighneswara",
+      "theme": "ganesha"
+    },
+    {
+      "file": "divine/ganesha_f_23.jpg",
+      "layout": "square",
+      "label": "Vighneswara",
+      "theme": "ganesha"
+    },
+    {
+      "file": "divine/ayudha_f_3.jpg",
+      "layout": "square",
+      "label": "Divya Ayudham",
+      "theme": "ayudha"
+    },
+    {
+      "file": "divine/ayudha_f_4.jpg",
+      "layout": "square",
+      "label": "Divya Ayudham",
+      "theme": "ayudha"
+    },
+    {
+      "file": "divine/ayudha_f_5.jpg",
+      "layout": "square",
+      "label": "Divya Ayudham",
+      "theme": "ayudha"
+    },
+    {
+      "file": "divine/ayudha_f_6.jpg",
+      "layout": "square",
+      "label": "Divya Ayudham",
+      "theme": "ayudha"
+    },
+    {
+      "file": "divine/shiva_f_8.jpg",
+      "layout": "square",
+      "label": "Maha Shiva",
+      "theme": "shiva"
+    },
+    {
+      "file": "divine/shiva_f_9.jpg",
+      "layout": "square",
+      "label": "Maha Shiva",
+      "theme": "shiva"
+    },
+    {
+      "file": "divine/ayudha_g_1.jpg",
+      "layout": "square",
+      "label": "Divya Ayudham",
+      "theme": "ayudha"
+    },
+    {
+      "file": "divine/ganesha_g_18.jpg",
+      "layout": "square",
+      "label": "Vighneswara",
+      "theme": "ganesha"
+    },
+    {
+      "file": "divine/ganesha_g_19.jpg",
+      "layout": "square",
+      "label": "Vighneswara",
+      "theme": "ganesha"
+    },
+    {
+      "file": "divine/lakshmi_g_2.jpg",
+      "layout": "square",
+      "label": "Sri Mahalakshmi",
+      "theme": "lakshmi"
+    },
+    {
+      "file": "divine/ganesha_g_20.jpg",
+      "layout": "square",
+      "label": "Vighneswara",
+      "theme": "ganesha"
+    },
+    {
+      "file": "divine/krishna_g_21.jpg",
+      "layout": "square",
+      "label": "Sri Krishna",
+      "theme": "krishna"
+    },
+    {
+      "file": "divine/vishnu_g_22.jpg",
+      "layout": "square",
+      "label": "Sri Maha Vishnu",
+      "theme": "vishnu"
+    },
+    {
+      "file": "divine/krishna_g_23.jpg",
+      "layout": "square",
+      "label": "Sri Krishna",
+      "theme": "krishna"
+    },
+    {
+      "file": "divine/ayudha_g_24.jpg",
+      "layout": "square",
+      "label": "Divya Ayudham",
+      "theme": "ayudha"
+    },
+    {
+      "file": "divine/ganesha_g_3.jpg",
+      "layout": "square",
+      "label": "Vighneswara",
+      "theme": "ganesha"
+    },
+    {
+      "file": "divine/krishna_g_4.jpg",
+      "layout": "square",
+      "label": "Sri Krishna",
+      "theme": "krishna"
+    },
+    {
+      "file": "divine/krishna_g_5.jpg",
+      "layout": "square",
+      "label": "Sri Krishna",
+      "theme": "krishna"
+    },
+    {
+      "file": "divine/krishna_g_6.jpg",
+      "layout": "square",
+      "label": "Sri Krishna",
+      "theme": "krishna"
+    },
+    {
+      "file": "divine/ayudha_g_7.jpg",
+      "layout": "square",
+      "label": "Divya Ayudham",
+      "theme": "ayudha"
+    },
+    {
+      "file": "divine/ayudha_g_8.jpg",
+      "layout": "square",
+      "label": "Divya Ayudham",
+      "theme": "ayudha"
+    },
+    {
+      "file": "divine/ganesha_g_9.jpg",
+      "layout": "square",
+      "label": "Vighneswara",
+      "theme": "ganesha"
+    },
+    {
+      "file": "divine/ayudha_h_1.jpg",
+      "layout": "square",
+      "label": "Divya Ayudham",
+      "theme": "ayudha"
+    },
+    {
+      "file": "divine/ayudha_h_10.jpg",
+      "layout": "square",
+      "label": "Divya Ayudham",
+      "theme": "ayudha"
+    },
+    {
+      "file": "divine/ganesha_h_11.jpg",
+      "layout": "square",
+      "label": "Vighneswara",
+      "theme": "ganesha"
+    },
+    {
+      "file": "divine/ganesha_h_12.jpg",
+      "layout": "square",
+      "label": "Vighneswara",
+      "theme": "ganesha"
+    },
+    {
+      "file": "divine/ganesha_h_13.jpg",
+      "layout": "square",
+      "label": "Vighneswara",
+      "theme": "ganesha"
+    },
+    {
+      "file": "divine/ayudha_h_14.jpg",
+      "layout": "square",
+      "label": "Divya Ayudham",
+      "theme": "ayudha"
+    },
+    {
+      "file": "divine/ayudha_h_2.jpg",
+      "layout": "square",
+      "label": "Divya Ayudham",
+      "theme": "ayudha"
+    },
+    {
+      "file": "divine/ayudha_h_3.jpg",
+      "layout": "square",
+      "label": "Divya Ayudham",
+      "theme": "ayudha"
+    },
+    {
+      "file": "divine/krishna_h_4.jpg",
+      "layout": "square",
+      "label": "Sri Krishna",
+      "theme": "krishna"
+    },
+    {
+      "file": "divine/ayudha_h_8.jpg",
+      "layout": "square",
+      "label": "Divya Ayudham",
+      "theme": "ayudha"
+    },
+    {
+      "file": "divine/ganesha_h_9.jpg",
+      "layout": "square",
+      "label": "Vighneswara",
+      "theme": "ganesha"
+    },
+    {
+      "file": "divine/ayudha_i_1.jpg",
+      "layout": "square",
+      "label": "Divya Ayudham",
+      "theme": "ayudha"
+    },
+    {
+      "file": "divine/vishnu_i_10.jpg",
+      "layout": "square",
+      "label": "Sri Maha Vishnu",
+      "theme": "vishnu"
+    },
+    {
+      "file": "divine/krishna_i_11.jpg",
+      "layout": "square",
+      "label": "Sri Krishna",
+      "theme": "krishna"
+    },
+    {
+      "file": "divine/krishna_i_14.jpg",
+      "layout": "square",
+      "label": "Sri Krishna",
+      "theme": "krishna"
+    },
+    {
+      "file": "divine/krishna_i_15.jpg",
+      "layout": "square",
+      "label": "Sri Krishna",
+      "theme": "krishna"
+    },
+    {
+      "file": "divine/krishna_i_16.jpg",
+      "layout": "square",
+      "label": "Sri Krishna",
+      "theme": "krishna"
+    },
+    {
+      "file": "divine/ayudha_i_17.jpg",
+      "layout": "square",
+      "label": "Divya Ayudham",
+      "theme": "ayudha"
+    },
+    {
+      "file": "divine/ayudha_i_18.jpg",
+      "layout": "square",
+      "label": "Divya Ayudham",
+      "theme": "ayudha"
+    },
+    {
+      "file": "divine/ayudha_i_2.jpg",
+      "layout": "square",
+      "label": "Divya Ayudham",
+      "theme": "ayudha"
+    },
+    {
+      "file": "divine/krishna_i_3.jpg",
+      "layout": "square",
+      "label": "Sri Krishna",
+      "theme": "krishna"
+    },
+    {
+      "file": "divine/vishnu_i_4.jpg",
+      "layout": "square",
+      "label": "Sri Maha Vishnu",
+      "theme": "vishnu"
+    },
+    {
+      "file": "divine/ganesha_i_5.jpg",
+      "layout": "square",
+      "label": "Vighneswara",
+      "theme": "ganesha"
+    },
+    {
+      "file": "divine/ganesha_i_6.jpg",
+      "layout": "square",
+      "label": "Vighneswara",
+      "theme": "ganesha"
+    },
+    {
+      "file": "divine/ganesha_i_7.jpg",
+      "layout": "square",
+      "label": "Vighneswara",
+      "theme": "ganesha"
+    },
+    {
+      "file": "divine/ganesha_i_8.jpg",
+      "layout": "square",
+      "label": "Vighneswara",
+      "theme": "ganesha"
+    },
+    {
+      "file": "divine/ganesha_i_9.jpg",
+      "layout": "square",
+      "label": "Vighneswara",
+      "theme": "ganesha"
+    },
+    {
+      "file": "divine/lakshmi_k_1.jpg",
+      "layout": "square",
+      "label": "Sri Mahalakshmi",
+      "theme": "lakshmi"
+    },
+    {
+      "file": "divine/shiva_k_11.jpg",
+      "layout": "square",
+      "label": "Maha Shiva",
+      "theme": "shiva"
+    },
+    {
+      "file": "divine/vahanam_k_12.jpg",
+      "layout": "square",
+      "label": "Vahanam",
+      "theme": "vahanam"
+    },
+    {
+      "file": "divine/vahanam_k_13.jpg",
+      "layout": "square",
+      "label": "Vahanam",
+      "theme": "vahanam"
+    },
+    {
+      "file": "divine/vahanam_k_14.jpg",
+      "layout": "square",
+      "label": "Vahanam",
+      "theme": "vahanam"
+    },
+    {
+      "file": "divine/shiva_k_15.jpg",
+      "layout": "square",
+      "label": "Maha Shiva",
+      "theme": "shiva"
+    },
+    {
+      "file": "divine/vahanam_k_16.jpg",
+      "layout": "square",
+      "label": "Vahanam",
+      "theme": "vahanam"
+    },
+    {
+      "file": "divine/vahanam_k_18.jpg",
+      "layout": "square",
+      "label": "Vahanam",
+      "theme": "vahanam"
+    },
+    {
+      "file": "divine/vahanam_k_2.jpg",
+      "layout": "square",
+      "label": "Vahanam",
+      "theme": "vahanam"
+    },
+    {
+      "file": "divine/vahanam_k_22.jpg",
+      "layout": "square",
+      "label": "Vahanam",
+      "theme": "vahanam"
+    },
+    {
+      "file": "divine/lakshmi_k_23.jpg",
+      "layout": "square",
+      "label": "Sri Mahalakshmi",
+      "theme": "lakshmi"
+    },
+    {
+      "file": "divine/vahanam_k_24.jpg",
+      "layout": "square",
+      "label": "Vahanam",
+      "theme": "vahanam"
+    },
+    {
+      "file": "divine/vahanam_k_25.jpg",
+      "layout": "square",
+      "label": "Vahanam",
+      "theme": "vahanam"
+    },
+    {
+      "file": "divine/vahanam_k_26.jpg",
+      "layout": "square",
+      "label": "Vahanam",
+      "theme": "vahanam"
+    },
+    {
+      "file": "divine/vahanam_k_27.jpg",
+      "layout": "square",
+      "label": "Vahanam",
+      "theme": "vahanam"
+    },
+    {
+      "file": "divine/vahanam_k_28.jpg",
+      "layout": "square",
+      "label": "Vahanam",
+      "theme": "vahanam"
+    },
+    {
+      "file": "divine/vahanam_k_3.jpg",
+      "layout": "square",
+      "label": "Vahanam",
+      "theme": "vahanam"
+    },
+    {
+      "file": "divine/vahanam_k_30.jpg",
+      "layout": "square",
+      "label": "Vahanam",
+      "theme": "vahanam"
+    },
+    {
+      "file": "divine/vahanam_k_31.jpg",
+      "layout": "square",
+      "label": "Vahanam",
+      "theme": "vahanam"
+    },
+    {
+      "file": "divine/vahanam_k_32.jpg",
+      "layout": "square",
+      "label": "Vahanam",
+      "theme": "vahanam"
+    },
+    {
+      "file": "divine/vahanam_k_33.jpg",
+      "layout": "square",
+      "label": "Vahanam",
+      "theme": "vahanam"
+    },
+    {
+      "file": "divine/vahanam_k_34.jpg",
+      "layout": "square",
+      "label": "Vahanam",
+      "theme": "vahanam"
+    },
+    {
+      "file": "divine/shiva_k_35.jpg",
+      "layout": "square",
+      "label": "Maha Shiva",
+      "theme": "shiva"
+    },
+    {
+      "file": "divine/shiva_k_37.jpg",
+      "layout": "square",
+      "label": "Maha Shiva",
+      "theme": "shiva"
+    },
+    {
+      "file": "divine/vahanam_k_38.jpg",
+      "layout": "square",
+      "label": "Vahanam",
+      "theme": "vahanam"
+    },
+    {
+      "file": "divine/vahanam_k_4.jpg",
+      "layout": "square",
+      "label": "Vahanam",
+      "theme": "vahanam"
+    },
+    {
+      "file": "divine/vahanam_k_5.jpg",
+      "layout": "square",
+      "label": "Vahanam",
+      "theme": "vahanam"
+    },
+    {
+      "file": "divine/vahanam_k_6.jpg",
+      "layout": "square",
+      "label": "Vahanam",
+      "theme": "vahanam"
+    },
+    {
+      "file": "divine/vahanam_k_7.jpg",
+      "layout": "square",
+      "label": "Vahanam",
+      "theme": "vahanam"
+    },
+    {
+      "file": "divine/lakshmi_k_8.jpg",
+      "layout": "square",
+      "label": "Sri Mahalakshmi",
+      "theme": "lakshmi"
+    },
+    {
+      "file": "divine/vahanam_k_9.jpg",
+      "layout": "square",
+      "label": "Vahanam",
+      "theme": "vahanam"
+    },
+    {
+      "file": "wishes/krishna_krishna1.jpg",
+      "layout": "square",
+      "label": "Sri Maha Vishnu",
+      "theme": "vishnu"
+    },
+    {
+      "file": "wishes/krishna_krishna2.jpg",
+      "layout": "square",
+      "label": "Sri Maha Vishnu",
+      "theme": "vishnu"
+    },
+    {
+      "file": "wishes/krishna_krishna3.jpg",
+      "layout": "square",
+      "label": "Sri Maha Vishnu",
+      "theme": "vishnu"
+    },
+    {
+      "file": "wishes/krishna_krishna4.jpg",
+      "layout": "square",
+      "label": "Sri Krishna",
+      "theme": "krishna"
+    },
+    {
+      "file": "wishes/krishna_krishna5.jpg",
+      "layout": "square",
+      "label": "Sri Krishna",
+      "theme": "krishna"
+    },
+    {
+      "file": "wishes/krishna_krishna6.jpg",
+      "layout": "square",
+      "label": "Sri Krishna",
+      "theme": "krishna"
+    },
+    {
+      "file": "wishes/lakshmi_lakshmi1.jpg",
+      "layout": "square",
+      "label": "Sri Mahalakshmi",
+      "theme": "lakshmi"
+    },
+    {
+      "file": "wishes/lakshmi_lakshmi2.jpg",
+      "layout": "square",
+      "label": "Sri Mahalakshmi",
+      "theme": "lakshmi"
+    },
+    {
+      "file": "wishes/lakshmi_lakshmi3.jpg",
+      "layout": "square",
+      "label": "Sri Mahalakshmi",
+      "theme": "lakshmi"
+    },
+    {
+      "file": "wishes/lakshmi_lakshmi4.jpg",
+      "layout": "square",
+      "label": "Sri Mahalakshmi",
+      "theme": "lakshmi"
+    },
+    {
+      "file": "wishes/shiva_shiva1.jpg",
+      "layout": "full",
+      "label": "Maha Shiva",
+      "theme": "shiva"
+    },
+    {
+      "file": "wishes/shiva_shiva2.jpg",
+      "layout": "full",
+      "label": "Maha Shiva",
+      "theme": "shiva"
+    },
+    {
+      "file": "wishes/shiva_shiva3.jpg",
+      "layout": "full",
+      "label": "Maha Shiva",
+      "theme": "shiva"
+    },
+    {
+      "file": "wishes/universal_1.jpg",
+      "layout": "full",
+      "label": "Tirumala",
+      "theme": "tirumala"
+    },
+    {
+      "file": "wishes/universal_2.jpg",
+      "layout": "full",
+      "label": "Tirumala",
+      "theme": "tirumala"
+    },
+    {
+      "file": "wishes/universal_3.jpg",
+      "layout": "square",
+      "label": "Tirumala",
+      "theme": "tirumala"
+    },
+    {
+      "file": "wishes/universal_4.jpg",
+      "layout": "square",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "wishes/universal_5.jpg",
+      "layout": "square",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "wishes/universal_6.jpg",
+      "layout": "square",
+      "label": "Srivari",
+      "theme": "srivari"
+    },
+    {
+      "file": "wishes/universal_7.jpg",
+      "layout": "square",
+      "label": "Tirumala",
+      "theme": "tirumala"
+    }
+  ],
+  "vahanams": {
+    "aswa": "vahanams/aswa.jpg",
+    "chinnasesha": "vahanams/chinnasesha.jpg",
+    "elephants": "vahanams/elephants.jpg",
+    "garuda": "vahanams/garuda.jpg",
+    "lion": "vahanams/lion.jpg",
+    "peddasesha": "vahanams/peddasesha.jpg",
+    "suryaprabha": "vahanams/suryaprabha.jpg",
+    "swan": "vahanams/swan.jpg"
+  }
+}
