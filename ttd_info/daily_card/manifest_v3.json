@@ -1812,14 +1812,6 @@
       "source": "https://commons.wikimedia.org/wiki/File:Lakshmi_being_annointed_by_the_elephants_of_the_directions._Wellcome_V0045031.jpg"
     },
     {
-      "file": "free/lakshmi_c048.jpg",
-      "layout": "full",
-      "label": "Sri Mahalakshmi",
-      "theme": "lakshmi",
-      "credit": "Unknown / Wikimedia Commons · CC BY 4.0 (resized)",
-      "source": "https://commons.wikimedia.org/wiki/File:Lakshmi_on_her_lotus_in_the_water_with_elephant._Chromolitho_Wellcome_V0045127.jpg"
-    },
-    {
       "file": "free/lakshmi_c051.jpg",
       "layout": "full",
       "label": "Padmavathi Ammavaru",
@@ -1859,13 +1851,6 @@
       "source": "https://commons.wikimedia.org/wiki/File:Vishnu_resting_on_the_ocean_accompanied_by_Lakshmi,_Tumbara,_Wellcome_V0045080.jpg"
     },
     {
-      "file": "free/vishnu_c056.jpg",
-      "layout": "full",
-      "label": "Garuda Vahana",
-      "theme": "vishnu",
-      "source": "https://commons.wikimedia.org/wiki/File:%22Garuda_Vahan_Vishnu,%22_from_the_Ravi_Varma_studio,_c.1910%27s.jpg"
-    },
-    {
       "file": "free/vishnu_c057.jpg",
       "layout": "full",
       "label": "Garuda Vahana",
@@ -1894,38 +1879,6 @@
       "source": "https://commons.wikimedia.org/wiki/File:Varaha_Raja_Ravi_Varma.jpg"
     },
     {
-      "file": "free/vishnu_c065.jpg",
-      "layout": "full",
-      "label": "Sri Maha Vishnu",
-      "theme": "vishnu",
-      "credit": "iMahesh / Wikimedia Commons · CC BY-SA 4.0 (resized)",
-      "source": "https://commons.wikimedia.org/wiki/File:Dasavataralu_-_Kalki_avatar_of_Lord_Vishnu_on_Sri_Venkateshwara_temple,_Guntur.jpg"
-    },
-    {
-      "file": "free/vishnu_c066.jpg",
-      "layout": "full",
-      "label": "Sri Maha Vishnu",
-      "theme": "vishnu",
-      "credit": "iMahesh / Wikimedia Commons · CC BY-SA 4.0 (resized)",
-      "source": "https://commons.wikimedia.org/wiki/File:Dasavataralu_-_Kurma_avatar_of_Lord_Vishnu_on_Sri_Venkateshwara_temple,_Guntur.jpg"
-    },
-    {
-      "file": "free/vishnu_c067.jpg",
-      "layout": "full",
-      "label": "Sri Maha Vishnu",
-      "theme": "vishnu",
-      "credit": "iMahesh / Wikimedia Commons · CC BY-SA 4.0 (resized)",
-      "source": "https://commons.wikimedia.org/wiki/File:Dasavataralu_-_Narasimha_avatar_of_Lord_Vishnu_on_Sri_Venkateshwara_temple,_Guntur.jpg"
-    },
-    {
-      "file": "free/vishnu_c068.jpg",
-      "layout": "full",
-      "label": "Sri Maha Vishnu",
-      "theme": "vishnu",
-      "credit": "iMahesh / Wikimedia Commons · CC BY-SA 4.0 (resized)",
-      "source": "https://commons.wikimedia.org/wiki/File:Dasavataralu_-_The_Main_avatar_of_Lord_Vishnu_on_Sri_Venkateshwara_temple,_Guntur.jpg"
-    },
-    {
       "file": "free/vishnu_c073.jpg",
       "layout": "full",
       "label": "Garuda Vahana",
@@ -1942,35 +1895,12 @@
       "source": "https://commons.wikimedia.org/wiki/File:Vishnu_flanked_by_two_wives_resting_on_Shesa,_the_serpent_on_Wellcome_V0045133.jpg"
     },
     {
-      "file": "free/tirumala_c075.jpg",
-      "layout": "full",
-      "label": "Govindaraja Swamy Gopuram",
-      "theme": "tirumala",
-      "source": "https://commons.wikimedia.org/wiki/File:Second_gopuram_of_govindarajaswamy_alayam.JPG"
-    },
-    {
       "file": "free/tirumala_c076.jpg",
       "layout": "square",
       "label": "Alipiri Hills",
       "theme": "tirumala",
       "credit": "Krishna M Venkat / Wikimedia Commons · CC BY-SA 4.0 (resized)",
       "source": "https://commons.wikimedia.org/wiki/File:Alipiri_hills.jpg"
-    },
-    {
-      "file": "free/tirumala_c078.jpg",
-      "layout": "full",
-      "label": "Garuda at Alipiri",
-      "theme": "tirumala",
-      "credit": "Iamvrt46 / Wikimedia Commons · CC BY-SA 4.0 (resized)",
-      "source": "https://commons.wikimedia.org/wiki/File:Garuda_statue.jpg"
-    },
-    {
-      "file": "free/tirumala_c079.jpg",
-      "layout": "full",
-      "label": "Garuda at Tirupati",
-      "theme": "tirumala",
-      "credit": "Raji.srinivas at en.wikipedia / Wikimedia Commons · CC BY-SA 3.0 (resized)",
-      "source": "https://commons.wikimedia.org/wiki/File:GarudarTirupathi.jpg"
     },
     {
       "file": "free/tirumala_c080.jpg",
@@ -2141,14 +2071,6 @@
       "source": "https://commons.wikimedia.org/wiki/File:Tirumala_Venkateswara_Temple,_Tirupati_(23710079574).jpg"
     },
     {
-      "file": "free/tirumala_c102.jpg",
-      "layout": "square",
-      "label": "Tirumala Temple",
-      "theme": "tirumala",
-      "credit": "Dinesh Kumar (DK) from Bangalore, Karnataka, India / Wikimedia Commons · CC BY-SA 2.0 (resized)",
-      "source": "https://commons.wikimedia.org/wiki/File:Tirumala_Venkateswara_Temple,_Tirupati_(24042695400).jpg"
-    },
-    {
       "file": "free/tirumala_c103.jpg",
       "layout": "full",
       "label": "Tirumala Temple",
@@ -2171,14 +2093,6 @@
       "theme": "tirumala",
       "credit": "Phanidharvaranasi / Wikimedia Commons · CC BY-SA 4.0 (resized)",
       "source": "https://commons.wikimedia.org/wiki/File:Tirumala_View_from_srivari_padalu.jpg"
-    },
-    {
-      "file": "free/tirumala_c106.jpg",
-      "layout": "square",
-      "label": "Tirumala",
-      "theme": "tirumala",
-      "credit": "Saminathan Suresh / Wikimedia Commons · CC BY-SA 3.0 (resized)",
-      "source": "https://commons.wikimedia.org/wiki/File:Tirumala,_Tirupati,_Andhra_Pradesh_517504,_India_-_panoramio_(2).jpg"
     }
   ],
   "vahanams": {
