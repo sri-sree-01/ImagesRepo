@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-30",
+  "updated": "2026-10-06",
   "weekdays": {
     "mon": [
       "shiva"
@@ -1742,6 +1742,443 @@
       "layout": "square",
       "label": "Tirumala",
       "theme": "tirumala"
+    },
+    {
+      "file": "free/shiva_c001.jpg",
+      "layout": "full",
+      "label": "Nataraja",
+      "theme": "shiva",
+      "source": "https://commons.wikimedia.org/wiki/File:10th_century_Nataraja,_the_Lord_of_Dance_High.jpg"
+    },
+    {
+      "file": "free/shiva_c002.jpg",
+      "layout": "square",
+      "label": "Nataraja",
+      "theme": "shiva",
+      "source": "https://commons.wikimedia.org/wiki/File:1965.1130_-_Shiva_as_Lord_of_the_Dance_(Nataraja).jpg"
+    },
+    {
+      "file": "free/shiva_c017.jpg",
+      "layout": "full",
+      "label": "Om Namah Shivaya",
+      "theme": "shiva",
+      "credit": "Unknown / Wikimedia Commons · CC BY 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Gang%C4%81_and_the_river_Ganges_falling_from_heaven,_while_S_Wellcome_V0045134.jpg"
+    },
+    {
+      "file": "free/shiva_c019.jpg",
+      "layout": "square",
+      "label": "Nataraja",
+      "theme": "shiva",
+      "credit": "Ravichandran KP / Wikimedia Commons · CC BY-SA 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Nataraja_Bronze_in_Government_Museum,_Chennai.jpg"
+    },
+    {
+      "file": "free/shiva_c022.jpg",
+      "layout": "square",
+      "label": "Nataraja",
+      "theme": "shiva",
+      "credit": "Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons · CC BY 2.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Nataraja,_Chola_period_bronze,_11th_century,_Government_Museum,_Chennai_(7).jpg"
+    },
+    {
+      "file": "free/lakshmi_c033.jpg",
+      "layout": "full",
+      "label": "Gajalakshmi",
+      "theme": "lakshmi",
+      "source": "https://commons.wikimedia.org/wiki/File:Gajalakshmi.jpeg"
+    },
+    {
+      "file": "free/lakshmi_c041.jpg",
+      "layout": "full",
+      "label": "Sri Mahalakshmi",
+      "theme": "lakshmi",
+      "source": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Goddess_Lakshmi,_1896.jpg"
+    },
+    {
+      "file": "free/lakshmi_c044.jpg",
+      "layout": "square",
+      "label": "Gajalakshmi",
+      "theme": "lakshmi",
+      "credit": "Biswarup Ganguly / Wikimedia Commons · CC BY 3.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Gajalaxmi_-_Medallion_-_2nd_Century_BCE_-_Red_Sand_Stone_-_Bharhut_Stupa_Railing_Pillar_-_Madhya_Pradesh_-_Indian_Museum_-_Kolkata_2012-11-16_1837_Cropped.JPG"
+    },
+    {
+      "file": "free/lakshmi_c047.jpg",
+      "layout": "full",
+      "label": "Sri Mahalakshmi",
+      "theme": "lakshmi",
+      "credit": "Unknown / Wikimedia Commons · CC BY 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Lakshmi_being_annointed_by_the_elephants_of_the_directions._Wellcome_V0045031.jpg"
+    },
+    {
+      "file": "free/lakshmi_c048.jpg",
+      "layout": "full",
+      "label": "Sri Mahalakshmi",
+      "theme": "lakshmi",
+      "credit": "Unknown / Wikimedia Commons · CC BY 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Lakshmi_on_her_lotus_in_the_water_with_elephant._Chromolitho_Wellcome_V0045127.jpg"
+    },
+    {
+      "file": "free/lakshmi_c051.jpg",
+      "layout": "full",
+      "label": "Padmavathi Ammavaru",
+      "theme": "lakshmi",
+      "credit": "Malyadri / Wikimedia Commons · CC BY-SA 3.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Tiruchanur_10.JPG"
+    },
+    {
+      "file": "free/lakshmi_c052.jpg",
+      "layout": "square",
+      "label": "Padmavathi Ammavaru",
+      "theme": "lakshmi",
+      "credit": "Malyadri / Wikimedia Commons · CC BY-SA 3.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Tiruchanur_19.JPG"
+    },
+    {
+      "file": "free/vishnu_c053.jpg",
+      "layout": "square",
+      "label": "Sri Maha Vishnu",
+      "theme": "vishnu",
+      "source": "https://commons.wikimedia.org/wiki/File:Popular_print,_album_(BM_2003,1022,0.39).jpg"
+    },
+    {
+      "file": "free/vishnu_c054.jpg",
+      "layout": "square",
+      "label": "Sri Maha Vishnu",
+      "theme": "vishnu",
+      "credit": "Unknown / Wikimedia Commons · CC BY 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Vishnu_lying_on_a_serpent,_with_Lakshmi_massaging_his_feet_a_Wellcome_V0045029.jpg"
+    },
+    {
+      "file": "free/vishnu_c055.jpg",
+      "layout": "full",
+      "label": "Sri Maha Vishnu",
+      "theme": "vishnu",
+      "credit": "Unknown / Wikimedia Commons · CC BY 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Vishnu_resting_on_the_ocean_accompanied_by_Lakshmi,_Tumbara,_Wellcome_V0045080.jpg"
+    },
+    {
+      "file": "free/vishnu_c056.jpg",
+      "layout": "full",
+      "label": "Garuda Vahana",
+      "theme": "vishnu",
+      "source": "https://commons.wikimedia.org/wiki/File:%22Garuda_Vahan_Vishnu,%22_from_the_Ravi_Varma_studio,_c.1910%27s.jpg"
+    },
+    {
+      "file": "free/vishnu_c057.jpg",
+      "layout": "full",
+      "label": "Garuda Vahana",
+      "theme": "vishnu",
+      "source": "https://commons.wikimedia.org/wiki/File:8b_Vishnu_Carried_by_Garuda_Through_a_Stormy_Sky_1775_Kotah_Bequest_of_Mrs._Horace_W._Frost.jpg"
+    },
+    {
+      "file": "free/vishnu_c058.jpg",
+      "layout": "full",
+      "label": "Garuda Vahana",
+      "theme": "vishnu",
+      "source": "https://commons.wikimedia.org/wiki/File:Garuda_Vishnu_Laxmi.jpg"
+    },
+    {
+      "file": "free/vishnu_c059.jpg",
+      "layout": "full",
+      "label": "Garuda Vahana",
+      "theme": "vishnu",
+      "source": "https://commons.wikimedia.org/wiki/File:Garuda_returning_with_the_vase_of_Amrita.jpg"
+    },
+    {
+      "file": "free/vishnu_c062.jpg",
+      "layout": "full",
+      "label": "Varaha Avatara",
+      "theme": "vishnu",
+      "source": "https://commons.wikimedia.org/wiki/File:Varaha_Raja_Ravi_Varma.jpg"
+    },
+    {
+      "file": "free/vishnu_c065.jpg",
+      "layout": "full",
+      "label": "Sri Maha Vishnu",
+      "theme": "vishnu",
+      "credit": "iMahesh / Wikimedia Commons · CC BY-SA 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Dasavataralu_-_Kalki_avatar_of_Lord_Vishnu_on_Sri_Venkateshwara_temple,_Guntur.jpg"
+    },
+    {
+      "file": "free/vishnu_c066.jpg",
+      "layout": "full",
+      "label": "Sri Maha Vishnu",
+      "theme": "vishnu",
+      "credit": "iMahesh / Wikimedia Commons · CC BY-SA 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Dasavataralu_-_Kurma_avatar_of_Lord_Vishnu_on_Sri_Venkateshwara_temple,_Guntur.jpg"
+    },
+    {
+      "file": "free/vishnu_c067.jpg",
+      "layout": "full",
+      "label": "Sri Maha Vishnu",
+      "theme": "vishnu",
+      "credit": "iMahesh / Wikimedia Commons · CC BY-SA 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Dasavataralu_-_Narasimha_avatar_of_Lord_Vishnu_on_Sri_Venkateshwara_temple,_Guntur.jpg"
+    },
+    {
+      "file": "free/vishnu_c068.jpg",
+      "layout": "full",
+      "label": "Sri Maha Vishnu",
+      "theme": "vishnu",
+      "credit": "iMahesh / Wikimedia Commons · CC BY-SA 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Dasavataralu_-_The_Main_avatar_of_Lord_Vishnu_on_Sri_Venkateshwara_temple,_Guntur.jpg"
+    },
+    {
+      "file": "free/vishnu_c073.jpg",
+      "layout": "full",
+      "label": "Garuda Vahana",
+      "theme": "vishnu",
+      "credit": "Unknown / Wikimedia Commons · CC BY 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Vishnu_accompanied_by_his_wives_riding_on_Garuda_who_carries_Wellcome_V0045132.jpg"
+    },
+    {
+      "file": "free/vishnu_c074.jpg",
+      "layout": "full",
+      "label": "Sri Maha Vishnu",
+      "theme": "vishnu",
+      "credit": "Unknown / Wikimedia Commons · CC BY 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Vishnu_flanked_by_two_wives_resting_on_Shesa,_the_serpent_on_Wellcome_V0045133.jpg"
+    },
+    {
+      "file": "free/tirumala_c075.jpg",
+      "layout": "full",
+      "label": "Govindaraja Swamy Gopuram",
+      "theme": "tirumala",
+      "source": "https://commons.wikimedia.org/wiki/File:Second_gopuram_of_govindarajaswamy_alayam.JPG"
+    },
+    {
+      "file": "free/tirumala_c076.jpg",
+      "layout": "square",
+      "label": "Alipiri Hills",
+      "theme": "tirumala",
+      "credit": "Krishna M Venkat / Wikimedia Commons · CC BY-SA 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Alipiri_hills.jpg"
+    },
+    {
+      "file": "free/tirumala_c078.jpg",
+      "layout": "full",
+      "label": "Garuda at Alipiri",
+      "theme": "tirumala",
+      "credit": "Iamvrt46 / Wikimedia Commons · CC BY-SA 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Garuda_statue.jpg"
+    },
+    {
+      "file": "free/tirumala_c079.jpg",
+      "layout": "full",
+      "label": "Garuda at Tirupati",
+      "theme": "tirumala",
+      "credit": "Raji.srinivas at en.wikipedia / Wikimedia Commons · CC BY-SA 3.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:GarudarTirupathi.jpg"
+    },
+    {
+      "file": "free/tirumala_c080.jpg",
+      "layout": "square",
+      "label": "Gaja Vahanam",
+      "theme": "tirumala",
+      "credit": "Adiseshkashyap / Wikimedia Commons · CC BY-SA 3.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Lord_Venkateswara_on_Gaja_Vahanam..JPG"
+    },
+    {
+      "file": "free/tirumala_c081.jpg",
+      "layout": "full",
+      "label": "Maha Dwaram",
+      "theme": "tirumala",
+      "credit": "eclicks_by_bunny / Wikimedia Commons · CC BY-SA 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Maha_Dwaram_of_Venkateswara_temples,_Tirupati.jpg"
+    },
+    {
+      "file": "free/tirumala_c082.jpg",
+      "layout": "square",
+      "label": "Kalpavriksha Vahanam",
+      "theme": "tirumala",
+      "credit": "Unknown / Wikimedia Commons · CC BY-SA 3.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Malayappa_in_kalpavriksham_vahanam.jpg"
+    },
+    {
+      "file": "free/tirumala_c083.jpg",
+      "layout": "full",
+      "label": "Swarna Rathotsavam",
+      "theme": "tirumala",
+      "credit": "Unknown / Wikimedia Commons · CC BY-SA 3.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Malayappa_in_swarnarathotsavam.jpg"
+    },
+    {
+      "file": "free/tirumala_c084.jpg",
+      "layout": "square",
+      "label": "Malwadi Gundam Falls",
+      "theme": "tirumala",
+      "credit": "Adityamadhav83 / Wikimedia Commons · CC BY-SA 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Malwadi_Gundam_waterfalls_on_Tirumala_hills.jpg"
+    },
+    {
+      "file": "free/tirumala_c085.jpg",
+      "layout": "square",
+      "label": "Manasa Teertham, Talakona",
+      "theme": "tirumala",
+      "credit": "రవిచంద్ర / Wikimedia Commons · CC BY-SA 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Manasa_Teertham_Talakona.jpg"
+    },
+    {
+      "file": "free/tirumala_c086.jpg",
+      "layout": "square",
+      "label": "Mokalla Parvatham",
+      "theme": "tirumala",
+      "credit": "eclicks_by_bunny / Wikimedia Commons · CC BY-SA 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Mokalla_Parvatham_on_Tirumala_hill.jpg"
+    },
+    {
+      "file": "free/tirumala_c087.jpg",
+      "layout": "square",
+      "label": "Silathoranam",
+      "theme": "tirumala",
+      "credit": "Á at English Wikipedia / Wikimedia Commons · CC BY 3.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Natural_stone_arch_in_tirumala.JPG"
+    },
+    {
+      "file": "free/tirumala_c089.jpg",
+      "layout": "square",
+      "label": "Sapthagiri Hills",
+      "theme": "tirumala",
+      "credit": "Nikhilb239 / Wikimedia Commons · CC BY-SA 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Sapthagiri_Hills_Tirumala.JPG"
+    },
+    {
+      "file": "free/tirumala_c090.jpg",
+      "layout": "square",
+      "label": "Govindaraja Swamy Gopuram",
+      "theme": "tirumala",
+      "credit": "Adityamadhav83 / Wikimedia Commons · CC BY-SA 3.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Side_view_Govindaraja_swamy_Gopuram_Tirupati.JPG"
+    },
+    {
+      "file": "free/tirumala_c091.jpg",
+      "layout": "full",
+      "label": "Sri Govindaraja Swamy Temple",
+      "theme": "tirumala",
+      "credit": "eclicks_by_bunny / Wikimedia Commons · CC BY-SA 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Sri_Govinda_Raja_Swamy_Temple_in_Tirupati.jpg"
+    },
+    {
+      "file": "free/tirumala_c092.jpg",
+      "layout": "square",
+      "label": "Srikalahasti",
+      "theme": "shiva",
+      "credit": "Kalyan Kumar / Wikimedia Commons · CC BY-SA 2.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Sri_Kala_Hasti.jpg"
+    },
+    {
+      "file": "free/tirumala_c093.jpg",
+      "layout": "square",
+      "label": "Tirumala Temple",
+      "theme": "tirumala",
+      "credit": "rajaraman sundaram / Wikimedia Commons · CC BY 3.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:TIRUMALA_TIRUPATI_TEMPLE,ANDHRA_PRADESH_-_panoramio.jpg"
+    },
+    {
+      "file": "free/tirumala_c094.jpg",
+      "layout": "full",
+      "label": "Talakona Falls",
+      "theme": "tirumala",
+      "credit": "Eyeofshahval / Wikimedia Commons · CC BY-SA 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Talakona_Waterfalls_near_Tirupati_India.jpg"
+    },
+    {
+      "file": "free/tirumala_c095.jpg",
+      "layout": "square",
+      "label": "Talakona Falls",
+      "theme": "tirumala",
+      "credit": "VinothChandar / Wikimedia Commons · CC BY 2.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Talakona_waterfall_view_01.jpg"
+    },
+    {
+      "file": "free/tirumala_c096.jpg",
+      "layout": "full",
+      "label": "Talakona Falls",
+      "theme": "tirumala",
+      "credit": "Eyeofshahvali / Wikimedia Commons · CC BY-SA 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Thalakona_Waterfalls.jpg"
+    },
+    {
+      "file": "free/tirumala_c097.jpg",
+      "layout": "full",
+      "label": "Ananda Nilayam",
+      "theme": "tirumala",
+      "credit": "Phanidharvaranasi / Wikimedia Commons · CC BY-SA 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Tirumala_Anand_nilayam_34534.jpg"
+    },
+    {
+      "file": "free/tirumala_c098.jpg",
+      "layout": "square",
+      "label": "Ananda Nilayam",
+      "theme": "tirumala",
+      "credit": "Phanidharvaranasi / Wikimedia Commons · CC BY-SA 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Tirumala_Anand_nilayam42.jpg"
+    },
+    {
+      "file": "free/tirumala_c099.jpg",
+      "layout": "square",
+      "label": "Ananda Nilayam",
+      "theme": "tirumala",
+      "credit": "Phanidharvaranasi / Wikimedia Commons · CC BY-SA 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Tirumala_Anand_nilayam4653.jpg"
+    },
+    {
+      "file": "free/tirumala_c100.jpg",
+      "layout": "full",
+      "label": "Ananda Nilayam",
+      "theme": "tirumala",
+      "credit": "Phanidharvaranasi / Wikimedia Commons · CC BY-SA 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Tirumala_Anand_nilayam837.jpg"
+    },
+    {
+      "file": "free/tirumala_c101.jpg",
+      "layout": "square",
+      "label": "Tirumala Temple",
+      "theme": "tirumala",
+      "credit": "Dinesh Kumar (DK) from Bangalore, Karnataka, India / Wikimedia Commons · CC BY-SA 2.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Tirumala_Venkateswara_Temple,_Tirupati_(23710079574).jpg"
+    },
+    {
+      "file": "free/tirumala_c102.jpg",
+      "layout": "square",
+      "label": "Tirumala Temple",
+      "theme": "tirumala",
+      "credit": "Dinesh Kumar (DK) from Bangalore, Karnataka, India / Wikimedia Commons · CC BY-SA 2.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Tirumala_Venkateswara_Temple,_Tirupati_(24042695400).jpg"
+    },
+    {
+      "file": "free/tirumala_c103.jpg",
+      "layout": "full",
+      "label": "Tirumala Temple",
+      "theme": "tirumala",
+      "credit": "Dinesh Kumar (DK) from Bangalore, Karnataka, India / Wikimedia Commons · CC BY-SA 2.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Tirumala_Venkateswara_Temple,_Tirupati_(24312092216).jpg"
+    },
+    {
+      "file": "free/tirumala_c104.jpg",
+      "layout": "square",
+      "label": "Tirumala Temple Entrance",
+      "theme": "tirumala",
+      "credit": "Nikhilb239 / Wikimedia Commons · CC BY-SA 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Tirumala_Venkateswara_temple_entrance_09062015.JPG"
+    },
+    {
+      "file": "free/tirumala_c105.jpg",
+      "layout": "square",
+      "label": "View from Srivari Padalu",
+      "theme": "tirumala",
+      "credit": "Phanidharvaranasi / Wikimedia Commons · CC BY-SA 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Tirumala_View_from_srivari_padalu.jpg"
+    },
+    {
+      "file": "free/tirumala_c106.jpg",
+      "layout": "square",
+      "label": "Tirumala",
+      "theme": "tirumala",
+      "credit": "Saminathan Suresh / Wikimedia Commons · CC BY-SA 3.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Tirumala,_Tirupati,_Andhra_Pradesh_517504,_India_-_panoramio_(2).jpg"
     }
   ],
   "vahanams": {
