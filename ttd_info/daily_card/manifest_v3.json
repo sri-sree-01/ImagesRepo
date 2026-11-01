@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-06",
+  "updated": "2026-11-01",
   "weekdays": {
     "mon": [
       "shiva"
@@ -2093,6 +2093,257 @@
       "theme": "tirumala",
       "credit": "Phanidharvaranasi / Wikimedia Commons · CC BY-SA 4.0 (resized)",
       "source": "https://commons.wikimedia.org/wiki/File:Tirumala_View_from_srivari_padalu.jpg"
+    },
+    {
+      "file": "free/tirumala_d0054.jpg",
+      "layout": "square",
+      "label": "Gaja Seva at Tirumala",
+      "theme": "tirumala",
+      "credit": "Raji.srinivas / Wikimedia Commons · CC BY-SA 3.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:ElephantsTirumala.jpg"
+    },
+    {
+      "file": "free/tirumala_d0056.jpg",
+      "layout": "square",
+      "label": "Srinivasa Mangapuram",
+      "theme": "tirumala",
+      "credit": "Sid2787 / Wikimedia Commons · CC BY-SA 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Srinivasamangapuram.jpg"
+    },
+    {
+      "file": "free/krishna_d0162.jpg",
+      "layout": "square",
+      "label": "Sri Krishna Rayabaram",
+      "theme": "krishna",
+      "source": "https://commons.wikimedia.org/wiki/File:Krishna_acts_as_envoy_from_the_Pandavas_to_the_Kaurava_court.jpg"
+    },
+    {
+      "file": "free/krishna_d0163.jpg",
+      "layout": "full",
+      "label": "Venugopala Swamy",
+      "theme": "krishna",
+      "source": "https://commons.wikimedia.org/wiki/File:VenugopalKrishna-CGRamanujam-RaviVarmaPressOleographPrint-IndianPainting_976d929e-9cb4-472a-94a2-9dfd59cff9b2_(1).jpg"
+    },
+    {
+      "file": "free/krishna_d0164.jpg",
+      "layout": "full",
+      "label": "Radha",
+      "theme": "krishna",
+      "source": "https://commons.wikimedia.org/wiki/File:Radha_in_the_Moonlight.jpg"
+    },
+    {
+      "file": "free/shiva_d0666.jpg",
+      "layout": "square",
+      "label": "Ardhanarishvara",
+      "theme": "shiva",
+      "source": "https://commons.wikimedia.org/wiki/File:11th_century_Trishul_with_Shaivism_Ardhanarishvara,_Cleveland_Museum_of_Art.jpg"
+    },
+    {
+      "file": "free/shiva_d0704.jpg",
+      "layout": "square",
+      "label": "Somaskanda",
+      "theme": "shiva",
+      "source": "https://commons.wikimedia.org/wiki/File:Shiva_and_Uma_(Somaskanda),_South_India,_c._14th_century_AD,_bronze_-_Arthur_M._Sackler_Gallery_-_DSC05983.JPG"
+    },
+    {
+      "file": "free/vishnu_d0726.jpg",
+      "layout": "square",
+      "label": "Hari Hara",
+      "theme": "vishnu",
+      "source": "https://commons.wikimedia.org/wiki/File:Vishnu_Shiva.jpg"
+    },
+    {
+      "file": "free/vishnu_d0754.jpg",
+      "layout": "full",
+      "label": "Sri Maha Vishnu",
+      "theme": "vishnu",
+      "source": "https://commons.wikimedia.org/wiki/File:Vishnu,_AK-MAK-265.jpg"
+    },
+    {
+      "file": "free/vishnu_d0756.jpg",
+      "layout": "full",
+      "label": "Vishwaroopa",
+      "theme": "vishnu",
+      "credit": "Osama Shukir Muhammed Amin FRCP(Glasg) / Wikimedia Commons · CC BY-SA 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Bronze_figure_of_Vishnu._From_India,_19th_century_CE._National_Museum_of_Scotland,_Edinburgh.jpg"
+    },
+    {
+      "file": "free/vishnu_d0758.jpg",
+      "layout": "full",
+      "label": "Sri Maha Vishnu",
+      "theme": "vishnu",
+      "credit": "ComparingQuantities / Wikimedia Commons · CC BY-SA 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Bronze_metal_Vishnu_sculptures_from_Medieval_Assam_(_Ahom_kingdom).jpg"
+    },
+    {
+      "file": "free/vishnu_d0759.jpg",
+      "layout": "full",
+      "label": "Sri Maha Vishnu",
+      "theme": "vishnu",
+      "credit": "Natasha Khaitan / Wikimedia Commons · CC BY-SA 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Statue_of_Vishnu_in_Bronze_from_Vijayanagar_Empire.jpg"
+    },
+    {
+      "file": "free/vishnu_d0773.jpg",
+      "layout": "square",
+      "label": "Anantha Sayana",
+      "theme": "vishnu",
+      "credit": "Pratish Khedekar / Wikimedia Commons · CC BY-SA 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Anantasayana_Vishnu.jpg"
+    },
+    {
+      "file": "free/vishnu_d0777.jpg",
+      "layout": "full",
+      "label": "Badami Vishnu Shrine",
+      "theme": "vishnu",
+      "credit": "Ms Sarah Welch / Wikimedia Commons · CC BY-SA 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Anantashayana_Vishnu_shrine,_devotee_couple_with_a_cow_and_calf,_Badami_monuments_Karnataka.jpg"
+    },
+    {
+      "file": "free/vishnu_d0778.jpg",
+      "layout": "full",
+      "label": "Trimurti",
+      "theme": "vishnu",
+      "credit": "Ms Sarah Welch / Wikimedia Commons · CC BY-SA 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Anantashayana_Vishnu_shrine,_Vishnu_above_Garuda_(left),_Shiva_above_Nandi,_Brahma_above_Hamsa,_Badami_monuments_Karnataka.jpg"
+    },
+    {
+      "file": "free/vishnu_d0779.jpg",
+      "layout": "full",
+      "label": "Anantha Sayana",
+      "theme": "vishnu",
+      "credit": "Ms Sarah Welch / Wikimedia Commons · CC BY-SA 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Anantashayana_Vishnu_with_Lakshmi,_his_avatars_above_him,_Badami_monuments_Karnataka_2.jpg"
+    },
+    {
+      "file": "free/vahanam_d0945.jpg",
+      "layout": "full",
+      "label": "Garuda Vahanam",
+      "theme": "vahanam",
+      "credit": "Hyougushi / Hideyuki KAMON / Wikimedia Commons · CC BY-SA 2.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Garuda_by_Hyougushi_in_Delhi.jpg"
+    },
+    {
+      "file": "free/vahanam_d0946.jpg",
+      "layout": "full",
+      "label": "Garuda Vahanam",
+      "theme": "vahanam",
+      "source": "https://commons.wikimedia.org/wiki/File:Bronze_Garuda_from_Mysore,_Karnataka,_India,_17th_century,_Honolulu_Academy_of_Arts.JPG"
+    },
+    {
+      "file": "free/vahanam_d0947.jpg",
+      "layout": "square",
+      "label": "Garuda Vahanam",
+      "theme": "vahanam",
+      "source": "https://commons.wikimedia.org/wiki/File:Garuda_statue_from_Nepal,_18th-19th_century,_gilt_bronze,_Honolulu_Museum_of_Art.JPG"
+    },
+    {
+      "file": "free/vahanam_d0954.jpg",
+      "layout": "full",
+      "label": "Garuda Vahanam",
+      "theme": "vahanam",
+      "source": "https://commons.wikimedia.org/wiki/File:Garuda,_India,_Tamil_Nadu,_c._15th-16th_century_AD,_bronze_-_Linden-Museum_-_Stuttgart,_Germany_-_DSC03768.jpg"
+    },
+    {
+      "file": "free/vahanam_d0956.jpg",
+      "layout": "full",
+      "label": "Garuda Vahanam",
+      "theme": "vahanam",
+      "source": "https://commons.wikimedia.org/wiki/File:MET_1987_218_21_244993.jpg"
+    },
+    {
+      "file": "free/vahanam_d0958.jpg",
+      "layout": "full",
+      "label": "Garuda Vahanam",
+      "theme": "vahanam",
+      "credit": "Joyofmuseums / Wikimedia Commons · CC BY-SA 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Garuda_-_British_Museum_-_Joy_of_Museums.jpg"
+    },
+    {
+      "file": "free/vishnu_d0966.jpg",
+      "layout": "full",
+      "label": "Sri Maha Vishnu",
+      "theme": "vishnu",
+      "credit": "Deepank Ranka / Wikimedia Commons · CC BY 3.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Vishnu,_Gilded_Bronze,_Govt._Museum_Chandigarh_01.jpg"
+    },
+    {
+      "file": "free/vahanam_d0972.jpg",
+      "layout": "full",
+      "label": "Garuda Vahanam",
+      "theme": "vahanam",
+      "credit": "Aliva Sahoo / Wikimedia Commons · CC BY-SA 3.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Garuda_Vahana_(55416).jpg"
+    },
+    {
+      "file": "free/vahanam_d1061.jpg",
+      "layout": "full",
+      "label": "Garuda Vahanam",
+      "theme": "vahanam",
+      "credit": "Sri Wahyuni Nur Indah Sari / Wikimedia Commons · CC BY-SA 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Golden_Garuda_Relief_Sculpture_at_Palereman_Alas_Ketonggo.jpg"
+    },
+    {
+      "file": "free/vishnu_d1078.jpg",
+      "layout": "full",
+      "label": "Chaturbhuja Vishnu",
+      "theme": "vishnu",
+      "credit": "Neek-Theri / Wikimedia Commons · CC BY-SA 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Chaturbhuj_Vishnu,_10th_Century,_Sambhar.jpg"
+    },
+    {
+      "file": "free/ayudha_d1081.jpg",
+      "layout": "full",
+      "label": "Sudarshana Chakram",
+      "theme": "ayudha",
+      "credit": "ScribblingGeek / Wikimedia Commons · CC BY-SA 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Sudarshana_Chakra_at_Asian_Civilisations_Museum.jpg"
+    },
+    {
+      "file": "free/ayudha_d1084.jpg",
+      "layout": "full",
+      "label": "Sudarshana Chakram",
+      "theme": "ayudha",
+      "credit": "Rajasekhar1961 / Wikimedia Commons · CC BY-SA 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Chakra_at_Ashta_Laxmi_Devalayam_01_(cropped).jpg"
+    },
+    {
+      "file": "free/vishnu_d1085.jpg",
+      "layout": "full",
+      "label": "Sri Maha Vishnu",
+      "theme": "vishnu",
+      "credit": "Akhilan / Wikimedia Commons · CC BY-SA 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Napier_Museum_Vishnu_11th_Century_Chola.jpg"
+    },
+    {
+      "file": "free/ayudha_d1087.jpg",
+      "layout": "full",
+      "label": "Sudarshana Chakram",
+      "theme": "ayudha",
+      "credit": "Aliva Sahoo / Wikimedia Commons · CC BY-SA 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Sudarshana_Chakra.jpg"
+    },
+    {
+      "file": "free/vishnu_d1103.jpg",
+      "layout": "full",
+      "label": "Sri Maha Vishnu",
+      "theme": "vishnu",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Hindu_God_Vishnu_LACMA_M.70.5.1_(2_of_12).jpg"
+    },
+    {
+      "file": "free/ayudha_d1115.jpg",
+      "layout": "full",
+      "label": "Chakra Purusha",
+      "theme": "ayudha",
+      "source": "https://commons.wikimedia.org/wiki/File:Chakra-Purusha,_the_Personified_Discus_Weapon_of_Vishnu_MET_DP-20870-001.jpg"
+    },
+    {
+      "file": "free/ayudha_d1127.jpg",
+      "layout": "square",
+      "label": "Panchajanya Shankham",
+      "theme": "ayudha",
+      "credit": "Rajasekhar1961 / Wikimedia Commons · CC BY-SA 4.0 (resized)",
+      "source": "https://commons.wikimedia.org/wiki/File:Shankham_at_Ashta_Laxmi_Devalayam_03.jpg"
     }
   ],
   "vahanams": {
