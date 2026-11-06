@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-01",
+  "updated": "2026-11-06",
   "weekdays": {
     "mon": [
       "shiva"
@@ -2344,6 +2344,608 @@
       "theme": "ayudha",
       "credit": "Rajasekhar1961 / Wikimedia Commons · CC BY-SA 4.0 (resized)",
       "source": "https://commons.wikimedia.org/wiki/File:Shankham_at_Ashta_Laxmi_Devalayam_03.jpg"
+    },
+    {
+      "file": "animated/srivari_01.jpg",
+      "layout": "full",
+      "label": "Swarna Prabha Srivari",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/ayudha_02.jpg",
+      "layout": "full",
+      "label": "Divine Vel",
+      "theme": "ayudha",
+      "featured": true
+    },
+    {
+      "file": "animated/lakshmi_03.jpg",
+      "layout": "full",
+      "label": "Swamy and Ammavaru",
+      "theme": "lakshmi",
+      "featured": true
+    },
+    {
+      "file": "animated/lakshmi_04.jpg",
+      "layout": "full",
+      "label": "Swamy and Ammavaru",
+      "theme": "lakshmi",
+      "featured": true
+    },
+    {
+      "file": "animated/lakshmi_05.jpg",
+      "layout": "full",
+      "label": "Swamy and Ammavaru",
+      "theme": "lakshmi",
+      "featured": true
+    },
+    {
+      "file": "animated/lakshmi_06.jpg",
+      "layout": "full",
+      "label": "Swamy and Ammavaru",
+      "theme": "lakshmi",
+      "featured": true
+    },
+    {
+      "file": "animated/krishna_07.jpg",
+      "layout": "full",
+      "label": "Krishna with Peacock Feather",
+      "theme": "krishna",
+      "featured": true
+    },
+    {
+      "file": "animated/lakshmi_08.jpg",
+      "layout": "full",
+      "label": "Divya Dampati",
+      "theme": "lakshmi",
+      "featured": true
+    },
+    {
+      "file": "animated/vishnu_09.jpg",
+      "layout": "full",
+      "label": "Blessing of the Lord",
+      "theme": "vishnu",
+      "featured": true
+    },
+    {
+      "file": "animated/lakshmi_10.jpg",
+      "layout": "full",
+      "label": "Divya Dampati",
+      "theme": "lakshmi",
+      "featured": true
+    },
+    {
+      "file": "animated/krishna_11.jpg",
+      "layout": "full",
+      "label": "Sri Krishna in the Lotus Garden",
+      "theme": "krishna",
+      "featured": true
+    },
+    {
+      "file": "animated/murugan_12.jpg",
+      "layout": "full",
+      "label": "Sri Subrahmanya Swamy",
+      "theme": "murugan",
+      "featured": true
+    },
+    {
+      "file": "animated/murugan_13.jpg",
+      "layout": "full",
+      "label": "Sri Subrahmanya Swamy",
+      "theme": "murugan",
+      "featured": true
+    },
+    {
+      "file": "animated/murugan_14.jpg",
+      "layout": "full",
+      "label": "Sri Subrahmanya Swamy",
+      "theme": "murugan",
+      "featured": true
+    },
+    {
+      "file": "animated/murugan_15.jpg",
+      "layout": "full",
+      "label": "Sri Subrahmanya Swamy",
+      "theme": "murugan",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_16.jpg",
+      "layout": "full",
+      "label": "Swarna Mandapa Srivari",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_17.jpg",
+      "layout": "full",
+      "label": "Golden Srivari",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_18.jpg",
+      "layout": "full",
+      "label": "Golden Srivari",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_19.jpg",
+      "layout": "full",
+      "label": "Golden Srivari",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_20.jpg",
+      "layout": "full",
+      "label": "Swarna Mandapa Srivari",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_21.jpg",
+      "layout": "full",
+      "label": "Swarna Mandapa Srivari",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_22.jpg",
+      "layout": "full",
+      "label": "Swarna Prabha Srivari",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_23.jpg",
+      "layout": "full",
+      "label": "Golden Srivari",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_24.jpg",
+      "layout": "full",
+      "label": "Golden Srivari",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/vahanam_25.jpg",
+      "layout": "square",
+      "label": "Garuda Seva",
+      "theme": "vahanam",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_26.jpg",
+      "layout": "square",
+      "label": "Srivari Namam Deepam",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_27.jpg",
+      "layout": "full",
+      "label": "Srivari with Shankha Chakra",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_28.jpg",
+      "layout": "full",
+      "label": "Srivari with Shankha Chakra",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_29.jpg",
+      "layout": "full",
+      "label": "Srivari with Shankha Chakra",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_30.jpg",
+      "layout": "full",
+      "label": "Sesha Sayana Sannidhi",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_31.jpg",
+      "layout": "full",
+      "label": "Srivari Simhasanam",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_32.jpg",
+      "layout": "full",
+      "label": "Srivari Simhasanam",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_33.jpg",
+      "layout": "full",
+      "label": "Srivari with Shankha Chakra",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_34.jpg",
+      "layout": "full",
+      "label": "Srivari with Shankha Chakra",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_35.jpg",
+      "layout": "full",
+      "label": "Srivari Simhasanam",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/tirumala_36.jpg",
+      "layout": "square",
+      "label": "Tirumala Namam Darshan",
+      "theme": "tirumala",
+      "featured": true
+    },
+    {
+      "file": "animated/tirumala_37.jpg",
+      "layout": "full",
+      "label": "Akhanda Deepam at Tirumala",
+      "theme": "tirumala",
+      "featured": true
+    },
+    {
+      "file": "animated/tirumala_38.jpg",
+      "layout": "full",
+      "label": "Tirumala Gopuram",
+      "theme": "tirumala",
+      "featured": true
+    },
+    {
+      "file": "animated/tirumala_39.jpg",
+      "layout": "full",
+      "label": "Ananda Nilayam at Sunset",
+      "theme": "tirumala",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_40.jpg",
+      "layout": "full",
+      "label": "Srivari in the Clouds",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_41.jpg",
+      "layout": "full",
+      "label": "Srivari in the Clouds",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_42.jpg",
+      "layout": "full",
+      "label": "Srivari Alankaram",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_43.jpg",
+      "layout": "full",
+      "label": "Srivari Alankaram",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_44.jpg",
+      "layout": "full",
+      "label": "Srivari in the Clouds",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_45.jpg",
+      "layout": "full",
+      "label": "Srivari Alankaram",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_46.jpg",
+      "layout": "full",
+      "label": "Srivari in the Clouds",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_47.jpg",
+      "layout": "full",
+      "label": "Srivari in the Clouds",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_48.jpg",
+      "layout": "full",
+      "label": "Srivari in the Clouds",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/vahanam_49.jpg",
+      "layout": "full",
+      "label": "Garuda Seva Deepam",
+      "theme": "vahanam",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_50.jpg",
+      "layout": "full",
+      "label": "Srivari Deepa Darshan",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_51.jpg",
+      "layout": "full",
+      "label": "Srivari Deepa Darshan",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_52.jpg",
+      "layout": "full",
+      "label": "Srivari Deepa Darshan",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_53.jpg",
+      "layout": "full",
+      "label": "Srivari Deepa Darshan",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_54.jpg",
+      "layout": "full",
+      "label": "Srivari Deepa Darshan",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_55.jpg",
+      "layout": "full",
+      "label": "Srivari Laddu Prasadam",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_57.jpg",
+      "layout": "full",
+      "label": "Srivari Dhyana Roopam",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_58.jpg",
+      "layout": "full",
+      "label": "Srivari Divya Tejas",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_59.jpg",
+      "layout": "full",
+      "label": "Srivari Divya Tejas",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_60.jpg",
+      "layout": "full",
+      "label": "Srivari Divya Tejas",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_61.jpg",
+      "layout": "full",
+      "label": "Srivari Dhyana Roopam",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_62.jpg",
+      "layout": "full",
+      "label": "Srivari Divya Tejas",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_63.jpg",
+      "layout": "full",
+      "label": "Srivari Divya Tejas",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_64.jpg",
+      "layout": "full",
+      "label": "Srivari Dhyana Roopam",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/tirumala_65.jpg",
+      "layout": "square",
+      "label": "Govinda Namam",
+      "theme": "tirumala",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_66.jpg",
+      "layout": "full",
+      "label": "Srivari Divya Tejas",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_67.jpg",
+      "layout": "full",
+      "label": "Srivari Divya Tejas",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_68.jpg",
+      "layout": "full",
+      "label": "Srivari Divya Tejas",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_69.jpg",
+      "layout": "full",
+      "label": "Srivari Dhyana Roopam",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_70.jpg",
+      "layout": "full",
+      "label": "Srivari Divya Tejas",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_71.jpg",
+      "layout": "full",
+      "label": "Srivari Divya Tejas",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_72.jpg",
+      "layout": "full",
+      "label": "Srivari Divya Tejas",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_73.jpg",
+      "layout": "full",
+      "label": "Srivari Dhyana Roopam",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_74.jpg",
+      "layout": "full",
+      "label": "Srivari Divya Tejas",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_75.jpg",
+      "layout": "full",
+      "label": "Agni Prabha Srivari",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_76.jpg",
+      "layout": "full",
+      "label": "Agni Prabha Srivari",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_77.jpg",
+      "layout": "full",
+      "label": "Agni Prabha Srivari",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_78.jpg",
+      "layout": "full",
+      "label": "Agni Prabha Srivari",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_79.jpg",
+      "layout": "full",
+      "label": "Agni Prabha Srivari",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_80.jpg",
+      "layout": "full",
+      "label": "Agni Prabha Srivari",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/srivari_81.jpg",
+      "layout": "full",
+      "label": "Agni Prabha Srivari",
+      "theme": "srivari",
+      "featured": true
+    },
+    {
+      "file": "animated/krishna_82.jpg",
+      "layout": "full",
+      "label": "Sri Krishna with Sudarshana",
+      "theme": "krishna",
+      "featured": true
+    },
+    {
+      "file": "animated/krishna_83.jpg",
+      "layout": "full",
+      "label": "Sudarshana Vision",
+      "theme": "krishna",
+      "featured": true
+    },
+    {
+      "file": "animated/krishna_84.jpg",
+      "layout": "full",
+      "label": "Govardhana Giridhari",
+      "theme": "krishna",
+      "featured": true
+    },
+    {
+      "file": "animated/krishna_85.jpg",
+      "layout": "full",
+      "label": "Govardhana Giridhari",
+      "theme": "krishna",
+      "featured": true
+    },
+    {
+      "file": "animated/krishna_86.jpg",
+      "layout": "full",
+      "label": "Sri Krishna Surya Tejas",
+      "theme": "krishna",
+      "featured": true
+    },
+    {
+      "file": "animated/krishna_87.jpg",
+      "layout": "full",
+      "label": "Govardhana Giridhari",
+      "theme": "krishna",
+      "featured": true
     }
   ],
   "vahanams": {
